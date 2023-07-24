@@ -102,7 +102,7 @@ namespace Assignment14
             Stopwatch watch = new Stopwatch();
             Generator(bubble);
             watch.Start();
-            BubbleSort(bubble);
+            SelectionSort(bubble);
             watch.Stop();
             return watch.Elapsed.TotalMilliseconds;
         }
