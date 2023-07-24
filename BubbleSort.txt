@@ -1,0 +1,12 @@
+The Time Complexity of Bubble Sort is O(n^2)
+
+Advantages of Bubble Sort
+	
+	It works faster in Small arrays
+	It takes up small amount of space
+	It is easier to understand and implicate
+
+Disadvantages of Bubble Sort
+	
+	It works slower in Larger arrays
+	Even in small arrays, It may or may not work slower than other sorting algorithms.
